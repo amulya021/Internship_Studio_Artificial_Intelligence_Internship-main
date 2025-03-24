@@ -85,4 +85,4 @@ pip install numpy opencv-python scikit-learn matplotlib jupyter
 
 ## Author
 
-Chhagan Ram Choudhary
+Amulya Suravarjhula
